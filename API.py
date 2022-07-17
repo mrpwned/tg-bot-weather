@@ -1,1 +1,1 @@
-api_weather = 'api_token'
+api_weather = '111eaaa4651e4f13b655247588654a6d'
